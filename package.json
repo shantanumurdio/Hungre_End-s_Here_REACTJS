@@ -4,7 +4,8 @@
   "description": "Food Search App",
   "scripts": {
     "start": "parcel index.html",
-    "test": "jest"
+    "test": "jest",
+    "build": "parcel build index.html"
   },
   "author": "Shantanu Murdio",
   "license": "ISC",
