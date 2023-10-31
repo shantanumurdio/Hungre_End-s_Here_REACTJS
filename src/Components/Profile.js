@@ -38,7 +38,7 @@ const Profile = () => {
               <img className="w-12 m-2 rounded-lg" src={redux} alt="" />
             </div>
 
-            <Link to={https://github.com/shantanumurdio/Hungre_End-s_Here_REACTJS}><h1 className="pt-2 mt-2 text-center p-2 bg-slate-100">GitHub Repo For "Hunger End's Here"</h1> </Link>
+            <Link to={"https://github.com/shantanumurdio/Hungre_End-s_Here_REACTJS"}><h1 className="pt-2 mt-2 text-center p-2 bg-slate-100">GitHub Repo For "Hunger End's Here"</h1> </Link>
           </div>
         </div>
       </div>
